@@ -10,7 +10,9 @@ public class PracticeApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(PracticeApplication.class, args);
-		System.out.print(CalcController.plus(5, 5));
+		int sum = CalcController.plus(5, 5);
+		System.out.println(sum);
+		System.out.print(CalcController.minus(sum, 5));
 	}
 
 }
