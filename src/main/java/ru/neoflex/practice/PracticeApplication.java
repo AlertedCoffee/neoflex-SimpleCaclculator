@@ -8,11 +8,7 @@ import ru.neoflex.practice.controller.CalcController;
 public class PracticeApplication {
 
 	public static void main(String[] args) {
-
 		SpringApplication.run(PracticeApplication.class, args);
-		int sum = CalcController.plus(5, 5);
-		System.out.println(sum);
-		System.out.print(CalcController.minus(sum, 5));
 	}
 
 }
