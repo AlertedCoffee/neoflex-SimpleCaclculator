@@ -4,4 +4,4 @@ This project contains two Integer methods: plus(a, b) and minus(a, b), their nam
 
 For easier API usage Swagger was connected to this project. How does it works:
 ![example of using](https://imgur.com/a/06vTA5r)
-![example 2 of using](https://imgur.com/a/ZX5FnEl)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/ZX5FnEl" data-context="false" ><a href="//imgur.com/a/ZX5FnEl"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
